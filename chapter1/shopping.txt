@@ -13,11 +13,11 @@ eggs
 bacon
 orange juice
 grapes
-lemons
+lemons 3
 lettuce
 rice
 soup
-ice cream
+ice cream vanilla
 sugar
 flour
 
