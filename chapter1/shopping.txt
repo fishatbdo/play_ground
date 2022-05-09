@@ -1,5 +1,8 @@
 Shopping List
 
+tools
+shoes
+
 apples
 bananas
 yogurt
