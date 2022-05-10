@@ -17,7 +17,7 @@ lemons 3
 lettuce
 rice
 soup
-ice cream double vanilla
+ice cream no vanilla again
 sugar
 flour
 
